@@ -12,4 +12,8 @@ npm-debug.log
 yarn-error.log
 /storage
 /vendor
-/.idea
+.idea
+.idea/*
+/public/js/app.js
+/public/css/app.css
+
